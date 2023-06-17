@@ -24,10 +24,6 @@ To extract valuable insights from datasets, I am honing my skills in exploratory
 
 I am dedicated to evaluating and optimizing machine learning models to enhance their performance. Through techniques such as cross-validation, hyperparameter tuning, and feature selection, I aim to maximize model accuracy and efficiency, ensuring the best possible results.
 
-## 🚀 Projects and Contributions
-
-Stay tuned for exciting projects that showcase my progress and demonstrate the application of data science and machine learning techniques. I am actively contributing to open-source projects, participating in Kaggle competitions, and collaborating with fellow data enthusiasts to solve real-world problems.
-
 ## 📚 Learning Resources and Community Engagement
 
 Learning is a continuous journey, and I actively seek knowledge from various resources and engage with the vibrant data science community. I explore books, online courses, blogs, and websites to stay updated with the latest advancements. I also contribute to discussions, share insights, and learn from the experiences of others.
