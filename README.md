@@ -1,16 +1,14 @@
-### Hi there 👋
+# 💫 About Me:
+Welcome to my GitHub repository dedicated to my continuous growth in data science and machine learning! 
+## <br> 📚 Learning Goals<br>
+* ### Continuous Improvement: My primary objective is to constantly enhance my data science skills and machine learning knowledge through hands-on projects, experimentation, and learning from the community.<br> * ### Deep Dive into ML: I plan to delve into the depths of machine learning, exploring various algorithms, techniques, and frameworks to build robust and accurate predictive models.<br>  * ###  Practical Projects: I aim to apply my newly acquired knowledge to real-world problems, tackling diverse datasets and deriving meaningful insights that can drive decision-making and innovation. ## <br>🌱 Current Focus * ### <br>Python for Data Science: Mastering the Python programming language is pivotal for data science. I am sharpening my skills in data manipulation, visualization, and statistical analysis using libraries like Pandas, NumPy, and Matplotlib.<br> * ### Foundations of Machine Learning: I am immersing myself in the fundamentals of machine learning, understanding the core concepts of supervised and unsupervised learning, and delving into evaluation metrics and techniques.  * ### <br>Popular ML Libraries: I am gaining hands-on experience with renowned machine learning libraries such as scikit-learn and TensorFlow, implementing algorithms like linear regression, decision trees, support vector machines, and neural networks. * ###<br>Exploratory Data Analysis: I am honing my skills in exploring and comprehending datasets, performing data cleaning, handling missing values, and visualizing patterns and trends to extract invaluable insights.<br>Model Evaluation and Optimization: I am dedicated to evaluating and optimizing machine learning models. Employing techniques such as cross-validation, hyperparameter tuning, and feature selection,the goal is to enhance their performance.<br><br>
 
-<!--
-**Tanu-2525/Tanu-2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanu-tomar/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
