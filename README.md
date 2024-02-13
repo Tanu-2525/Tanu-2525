@@ -8,13 +8,13 @@ As of now, I am actively focusing on the following areas:
 
 Mastering the Python programming language is crucial for data science, and I am sharpening my skills in data manipulation, visualization, and statistical analysis. By utilizing popular libraries like Pandas, NumPy, and Matplotlib, I aim to extract valuable insights from data and present them in a visually appealing manner.
 
-### Foundations of Machine Learning 🧠
+### Foundations of Machine Learning & Deep Learning 🧠
 
-Understanding the fundamentals of machine learning is key to building robust and accurate predictive models. I am immersing myself in the core concepts of supervised and unsupervised learning, and exploring evaluation metrics and techniques that enable me to assess model performance effectively.
+Understanding the fundamentals of machine learning is key to building robust and accurate predictive models. I am immersing myself in the core concepts of supervised & unsupervised learning, and exploring evaluation metrics and techniques that enable me to assess model performance effectively.
 
 ### Popular ML Libraries 📚
 
-Gaining hands-on experience with renowned machine learning libraries such as scikit-learn and TensorFlow is an integral part of my journey. I am actively implementing various algorithms including linear regression, decision trees, support vector machines, and neural networks. By utilizing these libraries, I strive to create powerful and scalable machine learning models.
+I have hands-on experience with renowned machine learning libraries such as scikit-learn and TensorFlow is an integral part of my journey. I am actively implementing various algorithms including linear regression, decision trees, support vector machines, and neural networks. By utilizing these libraries, I strive to create powerful and scalable machine learning models.
 
 ### Exploratory Data Analysis 📊
 
