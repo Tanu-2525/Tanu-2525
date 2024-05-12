@@ -16,10 +16,6 @@ Understanding the fundamentals of machine learning is key to building robust and
 
 I have hands-on experience with renowned machine learning libraries such as scikit-learn and TensorFlow is an integral part of my journey. I am actively implementing various algorithms including linear regression, decision trees, support vector machines, and neural networks. By utilizing these libraries, I strive to create powerful and scalable machine learning models.
 
-### Exploratory Data Analysis 📊
-
-To extract valuable insights from datasets, I am honing my skills in exploratory data analysis. This involves performing data cleaning, handling missing values, and visualizing patterns and trends. By diving deep into the data, I aim to uncover hidden insights that can drive impactful decision-making.
-
 ### Model Evaluation and Optimization 🎯
 
 I am dedicated to evaluating and optimizing machine learning models to enhance their performance. Through techniques such as cross-validation, hyperparameter tuning, and feature selection, I aim to maximize model accuracy and efficiency, ensuring the best possible results.
